@@ -6,7 +6,7 @@ export const memoriesData = [
     id: 1,
     title: "İlk Temas 🤍",
     description: "Beraber ilk el ele tutuştuğumuz o an... Kalbimin nasıl hızla çarptığını, ellerinin sıcaklığını hiç unutmadım.",
-    image: "/1.jpg",
+    image: "/1.jpeg",
     puzzleType: "envelope",
     icon: <Heart className="w-8 h-8 text-rose-500" />
   },
